@@ -65,7 +65,7 @@
     "to-markdown": "^3.1.1",
     "upyun": "^3.3.4",
     "wxr": "^0.1.2",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.6",
