@@ -98,7 +98,7 @@
     "classnames": "^2.2.6",
     "codemirror": "^5.58.2",
     "cross-env": "^5.2.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^6.8.1",
     "eslint": "^4.2.0",
     "eslint-config-think": "^1.0.0",
     "eslint-import-resolver-webpack": "^0.8.1",
